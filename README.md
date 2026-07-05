@@ -3,10 +3,6 @@
 
 ###
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/germanocastanho/germanocastanho/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
 <br clear="both">
 
 <div data-importer="techs" align="center">
@@ -24,3 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="60" alt="debian logo"  />
 </div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/germanocastanho/germanocastanho/snake-output/snake.svg" alt="Snake animation" />
