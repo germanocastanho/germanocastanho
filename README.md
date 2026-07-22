@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Germano</h1>
-<h3 align="center">Developer | AI Engineer</h3>
+<h3 align="center">Python Developer | GenAI Engineer</h3>
 
 ###
 
-An internationally certified Developer focused on Generative AI — building LLM-powered systems, RAG pipelines, and autonomous AI Agents. I've worked with GPT, Claude, and Llama, integrating OpenAI, Anthropic, and Groq APIs through LangChain, CrewAI, Agno, and Hugging Face Transformers. Today I'm a Python Developer at Sicredi, automating Python ETL pipelines in compliance with LGPD and Central Bank regulations.
+Python Developer specializing in Generative AI, building production-ready LLM applications, RAG systems, and autonomous AI agents. Experienced across the modern GenAI ecosystem — from OpenAI, Anthropic, and Hugging Face Transformers to orchestration frameworks such as LangChain, CrewAI, and Agno — combined with a strong Python engineering background. Currently developing secure Python automation and data integration solutions at Sicredi Credit Union in compliance with LGPD and Brazilian Central Bank regulatory requirements.
 
 ###
 
