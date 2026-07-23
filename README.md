@@ -3,7 +3,7 @@
 
 ###
 
-Python Developer specializing in Generative AI, building production-ready LLM applications, RAG systems, and autonomous AI agents. Experienced across the modern GenAI ecosystem — from OpenAI, Anthropic, and Hugging Face Transformers to orchestration frameworks such as LangChain, CrewAI, and Agno — combined with a strong Python engineering background. Currently developing secure Python automation and data integration solutions at Sicredi Credit Union in compliance with LGPD and Brazilian Central Bank regulatory requirements.
+Python Developer specializing in Generative AI, building production-ready LLM applications, RAG systems, and autonomous AI agents. Experienced across the modern GenAI ecosystem combined with a strong Python engineering background. Currently developing secure Python automation at Sicredi Credit Union in compliance with LGPD and Brazilian Central Bank regulatory requirements.
 
 ###
 
