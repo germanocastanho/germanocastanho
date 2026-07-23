@@ -3,6 +3,8 @@
 
 ###
 
+<br clear="both">
+
 Python Developer specializing in Generative AI, building production-ready LLM applications, RAG systems, and autonomous AI agents. Experienced across the modern GenAI ecosystem combined with a strong Python engineering background. Currently developing secure Python automation at Sicredi Credit Union in compliance with LGPD and Brazilian Central Bank regulatory requirements.
 
 ###
