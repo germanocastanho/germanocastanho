@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Germano</h1>
-<h3 align="center">Developer | AI Engineer</h3>
+<h3 align="center">Python Developer</h3>
 
 ###
 
